@@ -1,0 +1,29 @@
+.container {
+    width: 800px;
+    background-color:#ccc;
+    padding: 20px;
+    border: 1px solid rgb(116, 112, 112);
+    margin: 10% auto;
+}
+
+input[type="text"] {
+    width: 80%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    margin-top: 20px;
+}
+
+button {
+    padding: 10px 20px;
+    background-color: grey;
+    color: #fff;
+    border-radius: 4px;
+    width: 90px;
+}
+
+p {
+    margin-top: 20px;
+    white-space: pre-line;
+}
